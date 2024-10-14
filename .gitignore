@@ -10,3 +10,5 @@
 
 # Ignore any other temporary files (if needed)
 *.zip
+
+echo ".DS_Store" >> .gitignore
