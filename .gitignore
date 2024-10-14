@@ -1,0 +1,12 @@
+# Ignore Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.tfstate
+.terraform.tfstate.*
+
+# Ignore environment files
+.env
+
+# Ignore any other temporary files (if needed)
+*.zip
